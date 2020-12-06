@@ -1,11 +1,13 @@
-         {} [{}2/24/2020{}]{}               JEx Bot Version 4.0
+            
        _   ______  __   __  ____            _    __      __  _  _   
       | | |  ____| \ \ / / |  _ \          | |   \ \    / / | || |  
-      | | | |__     \ V /  | |_) |   ___   | |_   \ \  / /  | || |_  T.me/JExSeller
+      | | | |__     \ V /  | |_) |   ___   | |_   \ \  / /  | || |_  
   _   | | |  __|     > <   |  _ <   / _ \  | __|   \ \/ /   |__   _|
- | |__| | | |____   / . \  | |_) | | (_) | | |_     \  /       | |  T.me/ShellTools
+ | |__| | | |____   / . \  | |_) | | (_) | | |_     \  /       | |  
   \____/  |______| /_/ \_\ |____/   \___/   \__|     \/        |_|  
-					FB.com/JExCoder
-
+					
+	Youtube: https://www.youtube.com/channel/UCrF-maPLb5hU0vUkqEYLITA	
+	Telegram: https://t.me/joinchat/AAAAAE1VgrTTVF8qDjTetw
+					
      {}Note!: {}We don't Accept any responsibility for any illegal usage.{}
                                                                   
