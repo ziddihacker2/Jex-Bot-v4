@@ -1,0 +1,8 @@
+http://solanaverde.online/wp-login.php
+ Username: admin
+ Password: admin
+-----------------------------------------
+http://ferahutkupekdemir.com/wp-login.php
+ Username: admin
+ Password: pass
+-----------------------------------------
